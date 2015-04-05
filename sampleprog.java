@@ -1,5 +1,6 @@
-class sampleprog{
-	public static void main(String[] args){
-		System.out.println("Testing my code");
-	}
+class main{
+
+public static void main(String[] args){
+  System.out.println("Hello java");
+ }
 }
